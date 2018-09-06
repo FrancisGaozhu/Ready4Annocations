@@ -1,8 +1,9 @@
 /**
- * 废弃标识注解的使用
+ * 废弃标识注解
  * @author FrancisGaozhu
- * @date 2018/9/3 17:17
- *
+ * @date 2018/9/6 17:15
+ * @mail francisgaozhu@foxmail.com
+ * 
  */
 
 @Deprecated注解

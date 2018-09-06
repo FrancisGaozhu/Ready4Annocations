@@ -1,8 +1,9 @@
 /**
- * 压制警告注解的使用
+ * 压制警告信息注解
  * @author FrancisGaozhu
- * @date 2018/9/3 16:15
- *
+ * @date 2018/9/6 17:15
+ * @mail francisgaozhu@foxmail.com
+ * 
  */
 
 @SuppressWarings

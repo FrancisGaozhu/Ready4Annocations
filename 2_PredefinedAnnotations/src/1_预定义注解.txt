@@ -1,8 +1,9 @@
 /**
- * 预定义注解
+ * 预定义注解概述
  * @author FrancisGaozhu
- * @date 2018/8/1 19:57
- *
+ * @date 2018/9/6 17:15
+ * @mail francisgaozhu@foxmail.com
+ * 
  */
 
     上文中我们已经针对于注解的写法进行了一些了解，其中我们会发现，某些注解是可以直接拿过来就使用的

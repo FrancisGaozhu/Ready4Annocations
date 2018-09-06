@@ -1,8 +1,9 @@
 /**
- * 针对于注解功能的说明
+ * 
  * @author FrancisGaozhu
- * @date 2018/7/30 16:40
- *
+ * @date 2018/9/6 17:15
+ * @mail francisgaozhu@foxmail.com
+ * 
  */
 
 

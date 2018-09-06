@@ -1,10 +1,10 @@
 /**
- * 可变长参数注解的使用
+ * 可变参数标识注解
  * @author FrancisGaozhu
- * @date 2018/9/4 10:45
- *
+ * @date 2018/9/6 17:15
+ * @mail francisgaozhu@foxmail.com
+ * 
  */
-
 
 SafeVarargs
 一句话用来说这个注解是用来干嘛的，其实也是用来压制警告信息的。
