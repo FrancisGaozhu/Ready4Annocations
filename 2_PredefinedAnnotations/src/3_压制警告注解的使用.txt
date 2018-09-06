@@ -1,0 +1,23 @@
+/**
+ * 压制警告注解的使用
+ * @author FrancisGaozhu
+ * @date 2018/9/3 16:15
+ *
+ */
+
+@SuppressWarings
+这个注解专门用于压制代码中所产生的警告信息，首先我们应该弄清楚警告和报错。
+
+警告：
+    代码中有所不规范的地方；
+
+报错：
+    代码中有所错误的地方，无法通过变编译；
+
+警告可以被忽略，通常即使代码中存在一些警告，可疑程序仍然可以正常的通过编译和运行。但是报错必须要解决之后程序才可以正常的编译和运行。
+示例代码：
+gaozhu.francis.demo.SuppressWaringsDemo
+
+另外，压制警告注解并不是仅可以加在要修饰的内容正上方
+示例代码：
+gaozhu.francis.demo.SuppressWaringsDemo2
