@@ -14,6 +14,9 @@ package gaozhu.francis.annotations;
 然后是定义注解的关键字：@interface。与接口类似，前面多一个@符号。
 
 最后的标识符就是自定义注解的名称。
+
+使用这种方式创建注解的时候，自动实现了java.lang.annotation.Annotation接口，编译器会自动完成注解的其他细节部分，在定义注解的时候不能
+继承其他的注解或者接口。
  */
 public @interface MyAnnotation
 {
