@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1_AnnotationsBase/1_AnnotationsBase.iml" filepath="$PROJECT_DIR$/1_AnnotationsBase/1_AnnotationsBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_PredefinedAnnotations/2_PredefinedAnnotations.iml" filepath="$PROJECT_DIR$/2_PredefinedAnnotations/2_PredefinedAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_CustomerAnnotations/3_CustomerAnnotations.iml" filepath="$PROJECT_DIR$/3_CustomerAnnotations/3_CustomerAnnotations.iml" />
     </modules>
   </component>
 </project>
