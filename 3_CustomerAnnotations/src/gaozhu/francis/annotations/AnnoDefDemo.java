@@ -24,8 +24,11 @@ public @interface AnnoDefDemo
 
     属性类型可以是值类型或者引用数据类型，属性名后必须跟着一组小括号。default和默认值是可选的，如果这个属性你需要上来就有一个默认值的
     话，那么可以在default关键字后直接跟着默认值。
+
+    如果不给默认值的话，那么这个属性的值采取其数据类型本来的默认值。
      */
     String name() default "FrancisGaozhu";//定义了一个名称为name，类型为字符串的属性。默认值是"FrancisGaozhu"
-    String[] hobby();
+    String[] hobby() default {"", "", "", "", "", ""};
+    int teacherNo();
 
 }
