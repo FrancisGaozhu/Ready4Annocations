@@ -1,0 +1,10 @@
+/**
+ * 自定义注解的格式和语法
+ * @author FrancisGaozhu
+ * @date 2018/9/7 14:28
+ * @mail francisgaozhu@foxmail.com
+ *
+ */
+
+
+示例代码：gaozhu.francis.annotations.AnnoDefDemo
