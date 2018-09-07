@@ -15,7 +15,7 @@ package gaozhu.francis.annotations;
 
 最后的标识符就是自定义注解的名称。
  */
-public @interface AnnoDefDemo
+public @interface MyAnnotation
 {
 
     /*

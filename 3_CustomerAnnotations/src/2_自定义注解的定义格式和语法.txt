@@ -7,4 +7,4 @@
  */
 
 
-示例代码：gaozhu.francis.annotations.AnnoDefDemo
+示例代码：gaozhu.francis.annotations.MyAnnotation
